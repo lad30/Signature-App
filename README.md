@@ -48,5 +48,3 @@ Before you begin, ensure you have the following installed:
 7. Click "Save & download" to save and download the canvas as an image.
 8. Click "Retrieve saved signature" to retrieve and display the saved canvas content.
 
-## License
-- This project is licensed under the MIT License - see the LICENSE file for details.
